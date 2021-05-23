@@ -1,0 +1,6 @@
+C:\Documents\Prak-VisualNet\test\test\test\bin\Debug\test.exe.config
+C:\Documents\Prak-VisualNet\test\test\test\bin\Debug\test.exe
+C:\Documents\Prak-VisualNet\test\test\test\bin\Debug\test.pdb
+C:\Documents\Prak-VisualNet\test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Documents\Prak-VisualNet\test\test\test\obj\Debug\test.exe
+C:\Documents\Prak-VisualNet\test\test\test\obj\Debug\test.pdb
