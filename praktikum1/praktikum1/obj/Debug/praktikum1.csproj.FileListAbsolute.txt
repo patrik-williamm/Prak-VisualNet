@@ -1,0 +1,5 @@
+C:\Documents\SharpDevelop Projects\praktikum1\praktikum1\bin\Debug\praktikum1.exe
+C:\Documents\SharpDevelop Projects\praktikum1\praktikum1\bin\Debug\praktikum1.pdb
+C:\Documents\SharpDevelop Projects\praktikum1\praktikum1\obj\Debug\praktikum1.csprojResolveAssemblyReference.cache
+C:\Documents\SharpDevelop Projects\praktikum1\praktikum1\obj\Debug\praktikum1.exe
+C:\Documents\SharpDevelop Projects\praktikum1\praktikum1\obj\Debug\praktikum1.pdb

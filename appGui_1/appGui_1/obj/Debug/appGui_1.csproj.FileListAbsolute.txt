@@ -1,0 +1,7 @@
+C:\Documents\SharpDevelop Projects\appGui_1\appGui_1\bin\Debug\appGui_1.exe
+C:\Documents\SharpDevelop Projects\appGui_1\appGui_1\bin\Debug\appGui_1.pdb
+C:\Documents\SharpDevelop Projects\appGui_1\appGui_1\obj\Debug\appGui_1.csprojResolveAssemblyReference.cache
+C:\Documents\SharpDevelop Projects\appGui_1\appGui_1\obj\Debug\appGui_1.exe
+C:\Documents\SharpDevelop Projects\appGui_1\appGui_1\obj\Debug\appGui_1.pdb
+C:\Documents\SharpDevelop Projects\appGui_1\appGui_1\obj\Debug\appGui_1.MainForm.resources
+C:\Documents\SharpDevelop Projects\appGui_1\appGui_1\obj\Debug\appGui_1.csproj.GenerateResource.Cache

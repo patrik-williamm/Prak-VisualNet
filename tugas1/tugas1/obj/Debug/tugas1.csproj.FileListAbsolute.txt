@@ -1,0 +1,5 @@
+C:\Documents\SharpDevelop Projects\tugas1\tugas1\bin\Debug\tugas1.exe
+C:\Documents\SharpDevelop Projects\tugas1\tugas1\bin\Debug\tugas1.pdb
+C:\Documents\SharpDevelop Projects\tugas1\tugas1\obj\Debug\tugas1.csprojResolveAssemblyReference.cache
+C:\Documents\SharpDevelop Projects\tugas1\tugas1\obj\Debug\tugas1.exe
+C:\Documents\SharpDevelop Projects\tugas1\tugas1\obj\Debug\tugas1.pdb
