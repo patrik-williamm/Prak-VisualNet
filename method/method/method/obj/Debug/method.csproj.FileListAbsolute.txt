@@ -1,0 +1,6 @@
+C:\Documents\Prak-VisualNet\method\method\method\obj\Debug\method.csprojResolveAssemblyReference.cache
+C:\Documents\Prak-VisualNet\method\method\method\bin\Debug\method.exe.config
+C:\Documents\Prak-VisualNet\method\method\method\bin\Debug\method.exe
+C:\Documents\Prak-VisualNet\method\method\method\bin\Debug\method.pdb
+C:\Documents\Prak-VisualNet\method\method\method\obj\Debug\method.exe
+C:\Documents\Prak-VisualNet\method\method\method\obj\Debug\method.pdb
