@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operator", "prak3_patrikWilliam\operator.csproj", "{6134F901-3FF5-4ED3-8873-5350EC0141E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_else", "if_else\if_else.csproj", "{69961F87-CD94-440A-88AC-3F435AA8AFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch", "switch\switch.csproj", "{CD3E9ADE-4E99-4995-82D5-DC73CCB491C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6134F901-3FF5-4ED3-8873-5350EC0141E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6134F901-3FF5-4ED3-8873-5350EC0141E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6134F901-3FF5-4ED3-8873-5350EC0141E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6134F901-3FF5-4ED3-8873-5350EC0141E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69961F87-CD94-440A-88AC-3F435AA8AFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69961F87-CD94-440A-88AC-3F435AA8AFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69961F87-CD94-440A-88AC-3F435AA8AFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69961F87-CD94-440A-88AC-3F435AA8AFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3E9ADE-4E99-4995-82D5-DC73CCB491C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3E9ADE-4E99-4995-82D5-DC73CCB491C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3E9ADE-4E99-4995-82D5-DC73CCB491C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3E9ADE-4E99-4995-82D5-DC73CCB491C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

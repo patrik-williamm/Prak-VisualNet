@@ -1,0 +1,6 @@
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\switch\bin\Debug\switch.exe.config
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\switch\bin\Debug\switch.exe
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\switch\bin\Debug\switch.pdb
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\switch\obj\Debug\switch.exe
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\switch\obj\Debug\switch.pdb
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\switch\obj\Debug\switch.csprojResolveAssemblyReference.cache

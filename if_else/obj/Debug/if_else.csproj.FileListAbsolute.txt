@@ -1,0 +1,6 @@
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\if_else\obj\Debug\if_else.csprojResolveAssemblyReference.cache
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\if_else\bin\Debug\if_else.exe.config
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\if_else\bin\Debug\if_else.exe
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\if_else\bin\Debug\if_else.pdb
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\if_else\obj\Debug\if_else.exe
+C:\Documents\SharpDevelop Projects\prak3_patrikWilliam\if_else\obj\Debug\if_else.pdb
