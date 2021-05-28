@@ -1,0 +1,6 @@
+C:\Documents\Prak-VisualNet\Perulangan\Perulanganwhile\bin\Debug\Perulanganwhile.exe.config
+C:\Documents\Prak-VisualNet\Perulangan\Perulanganwhile\bin\Debug\Perulanganwhile.exe
+C:\Documents\Prak-VisualNet\Perulangan\Perulanganwhile\bin\Debug\Perulanganwhile.pdb
+C:\Documents\Prak-VisualNet\Perulangan\Perulanganwhile\obj\Debug\Perulanganwhile.exe
+C:\Documents\Prak-VisualNet\Perulangan\Perulanganwhile\obj\Debug\Perulanganwhile.pdb
+C:\Documents\Prak-VisualNet\Perulangan\Perulanganwhile\obj\Debug\Perulanganwhile.csprojResolveAssemblyReference.cache

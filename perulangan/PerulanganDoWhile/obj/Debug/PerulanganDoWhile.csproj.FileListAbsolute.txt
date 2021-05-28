@@ -1,0 +1,6 @@
+C:\Documents\Prak-VisualNet\Perulangan\PerulanganDoWhile\bin\Debug\PerulanganDoWhile.exe.config
+C:\Documents\Prak-VisualNet\Perulangan\PerulanganDoWhile\bin\Debug\PerulanganDoWhile.exe
+C:\Documents\Prak-VisualNet\Perulangan\PerulanganDoWhile\bin\Debug\PerulanganDoWhile.pdb
+C:\Documents\Prak-VisualNet\Perulangan\PerulanganDoWhile\obj\Debug\PerulanganDoWhile.csprojResolveAssemblyReference.cache
+C:\Documents\Prak-VisualNet\Perulangan\PerulanganDoWhile\obj\Debug\PerulanganDoWhile.exe
+C:\Documents\Prak-VisualNet\Perulangan\PerulanganDoWhile\obj\Debug\PerulanganDoWhile.pdb
