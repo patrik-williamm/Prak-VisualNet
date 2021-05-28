@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perulanganwhile", "Perulang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerulanganDoWhile", "PerulanganDoWhile\PerulanganDoWhile.csproj", "{BBD9F687-9C33-49EF-B744-BED17BB29707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach", "foreach\foreach.csproj", "{0B8F67C2-7F3A-4D98-98C9-5572D840A184}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,5 +28,9 @@ Global
 		{BBD9F687-9C33-49EF-B744-BED17BB29707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BBD9F687-9C33-49EF-B744-BED17BB29707}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BBD9F687-9C33-49EF-B744-BED17BB29707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8F67C2-7F3A-4D98-98C9-5572D840A184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8F67C2-7F3A-4D98-98C9-5572D840A184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8F67C2-7F3A-4D98-98C9-5572D840A184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8F67C2-7F3A-4D98-98C9-5572D840A184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
