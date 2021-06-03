@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{77C17CEF-836D-4779-B1F0-E5A699D79191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMultiDimensi", "ArrayMultiDimensi\ArrayMultiDimensi.csproj", "{B6A1072A-3F36-4B11-9544-E45CF41EEA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasPrak5", "TugasPrak5\TugasPrak5.csproj", "{FAFD60FB-2D00-4E2F-9F9B-E5BA6AC9E315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C17CEF-836D-4779-B1F0-E5A699D79191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C17CEF-836D-4779-B1F0-E5A699D79191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C17CEF-836D-4779-B1F0-E5A699D79191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C17CEF-836D-4779-B1F0-E5A699D79191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A1072A-3F36-4B11-9544-E45CF41EEA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A1072A-3F36-4B11-9544-E45CF41EEA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A1072A-3F36-4B11-9544-E45CF41EEA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A1072A-3F36-4B11-9544-E45CF41EEA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFD60FB-2D00-4E2F-9F9B-E5BA6AC9E315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFD60FB-2D00-4E2F-9F9B-E5BA6AC9E315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFD60FB-2D00-4E2F-9F9B-E5BA6AC9E315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFD60FB-2D00-4E2F-9F9B-E5BA6AC9E315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
