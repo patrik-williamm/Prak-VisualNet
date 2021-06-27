@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prak8_PatrikWilliam", "Prak8_PatrikWilliam\Prak8_PatrikWilliam.csproj", "{FB30EC08-02AF-42F6-AE97-1917F966D4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View_data", "View_data\View_data.csproj", "{EEB8CE82-1F20-4ABB-B0A1-E5B3F22D43FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB30EC08-02AF-42F6-AE97-1917F966D4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB30EC08-02AF-42F6-AE97-1917F966D4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB30EC08-02AF-42F6-AE97-1917F966D4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB30EC08-02AF-42F6-AE97-1917F966D4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB8CE82-1F20-4ABB-B0A1-E5B3F22D43FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB8CE82-1F20-4ABB-B0A1-E5B3F22D43FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB8CE82-1F20-4ABB-B0A1-E5B3F22D43FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB8CE82-1F20-4ABB-B0A1-E5B3F22D43FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

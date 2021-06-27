@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patrik-william-191289", "Patrik-william-191289\Patrik-william-191289.csproj", "{D3AF1FF1-7208-4908-A1E7-70862018D2C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriks-191289", "Matriks-191289\Matriks-191289.csproj", "{F9B714C7-269D-4706-BC22-4823B850C310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AF1FF1-7208-4908-A1E7-70862018D2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AF1FF1-7208-4908-A1E7-70862018D2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AF1FF1-7208-4908-A1E7-70862018D2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AF1FF1-7208-4908-A1E7-70862018D2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B714C7-269D-4706-BC22-4823B850C310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B714C7-269D-4706-BC22-4823B850C310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B714C7-269D-4706-BC22-4823B850C310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B714C7-269D-4706-BC22-4823B850C310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
